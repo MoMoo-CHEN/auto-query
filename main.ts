@@ -13,5 +13,5 @@ queryRef.threshold = 180 // 查询间隔 180s
 
 creeper({
     account: '22820222',
-    password: 'cztczh0000'
+    password: 'cztczh032600'
 }) // 账号密码

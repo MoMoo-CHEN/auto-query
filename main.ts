@@ -7,11 +7,11 @@ pushConfig.topicIds = [10657] // TopicIds
 
 queryRef.current = {
     year: 2023,
-    term: 3 /* 3 上学期 12 下学期 */
+    term: 12 /* 3 上学期 12 下学期 */
 } // 查询条件
 queryRef.threshold = 180 // 查询间隔 180s
 
 creeper({
-    account: '20212131xxx',
-    password: 'xxxxxx'
+    account: '22820222',
+    password: 'cztczh0000'
 }) // 账号密码

@@ -1,7 +1,7 @@
 import { pushConfig } from "./pusher/entry"
 import { creeper, queryRef } from "./query/creeper"
 
-pushConfig.appToken = 'xxxxxx' // 推送的Token
+pushConfig.appToken = 'AT_xWvcvmiQbp4MumOql3k7rWHDU0Ykjtr5' // 推送的Token
 pushConfig.summary = '2023-2024学年上学期期末成绩更新' // 推送标题
 pushConfig.topicIds = [10657] // TopicIds
 

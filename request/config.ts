@@ -2,7 +2,7 @@ import {ContentType} from './encode'
 import {Headers} from 'node-fetch'
 
 export const link = {
-    ssoUrl: 'https://sso.scnu.edu.cn/AccountService/user/login.html'
+    ssoUrl: 'https://jwglxt.nmukd.edu.cn/jwglxt/xtgl/login_slogin.html'
 }
 
 export const fakeHeaders = (options?: {
